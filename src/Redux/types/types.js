@@ -1,0 +1,6 @@
+export const GET_USERS = 'GET-USERS';
+export const DELETE_USER = 'DELETE-USER';
+export const UPDATE_CHANGE_CONTACT = 'UPDATE-CHANGE-CONTACT';
+export const CREATE_NEW_CONTACT = 'CREATE-NEW-CONTACT';
+export const SEARCH_IN_LAST_NAME = 'SEARCH-IN-LAST-NAME';
+export const AUTH_USER = 'AUTH-USER';
